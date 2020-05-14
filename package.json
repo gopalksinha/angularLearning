@@ -1,6 +1,5 @@
 {
   "name": "angularlearning",
-  "version": "1.0.0",
   "description": "This is a test for node and angular learning",
   "main": "index.html",
   "scripts": {
